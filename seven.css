@@ -1,0 +1,52 @@
+img{
+	float:left;
+	margin:20px;
+}
+
+.lll{
+	background-image:url(500500.jpg);
+	background-attachment:fixed;
+}
+.ff{
+	float:left;
+	height:43%;
+	width:22%;
+}
+.f{
+	padding-top:30px;
+}
+.bb{
+	float:right;
+	height:33%;
+	width:22%;
+}
+.uuu{
+	border:1px red solid;
+	float:left;
+	height:33%;
+	width:22%;
+}
+.uu{
+	float:right;
+	height:33%;
+	width:22%;
+}
+.u{
+	float:left;
+	height:33%;
+	width:22%;
+}
+
+.iu{
+	float:left;
+	height:33%;
+	width:22%;
+}
+.ttt{
+	float:left;
+	height:33%;
+	width:22%;
+}
+.e{
+	float:left;
+}

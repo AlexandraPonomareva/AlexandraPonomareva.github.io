@@ -1,0 +1,46 @@
+
+
+
+.lll{
+	background-image:url(993.jpg);
+	background-attachment:fixed;
+}
+.uuu{
+	float:left;
+	height:30%;
+	width:22%;
+}
+.bb{
+	float:right;
+	height:33%;
+	width:22%;
+}
+.ll{
+	float:left;
+	height:33%;
+	width:22%;
+}
+.pp{
+	float:right;
+	height:33%;
+	width:22%;
+}
+.p{
+	float:left;
+	height:35%;
+	width:22%;
+}
+.x{
+	float:left;
+}
+.q{
+	float:right;
+	height:45%;
+	width:22%;
+}
+img{
+	margin:10px;
+}
+.e{
+	float:left;
+}

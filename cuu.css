@@ -1,4 +1,30 @@
 .lll{
-	background-image:url(90.jpg);
+	background-image:url(363.jpg);
 	background-attachment:fixed;
+}
+.l{
+	float:right;
+	width:10%;
+	height:70%;
+}
+.h{
+	float:right;
+	width:80%;
+	height:70%;
+}
+.geo{
+	float:right;
+	width:20%;
+	height:20%;
+}
+.g{
+	padding-top:10px;
+}
+img{
+	float:left;
+	margin:10px;
+}
+
+.e{
+	float:left;
 }

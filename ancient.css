@@ -1,0 +1,35 @@
+*{
+
+}
+
+.lll{
+	background-image:url(582.jpg);
+	background-attachment:fixed;
+}
+body {
+    background: url(images/cat.jpg);
+   }
+   body {
+	 opacity: 0.9;
+ 	 background: #ffcc66; /* Цвет фона */
+ 	 padding: 3px; /* Поля вокруг текста */
+	 
+   }
+  .ng{
+	  float:right;
+	  height:100%;
+	  width:20%;
+  }
+  .n{
+	  float:left;
+	  height:100%;
+	  width:20%;
+  }
+  
+  .hj{
+	  background-color:#ffdead;
+	 
+  }
+  .e{
+	float:left;
+}
